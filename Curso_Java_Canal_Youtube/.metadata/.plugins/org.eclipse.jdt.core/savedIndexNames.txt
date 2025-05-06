@@ -1,0 +1,3 @@
+INDEX VERSION 1.134+C:\Users\Adrián\Desktop\ \Youtube\Coding With Adri\Videos\LISTA_APRENDIENDO_JAVA\WORKSPACE\Curso_Java_Canal_Youtube\.metadata\.plugins\org.eclipse.jdt.core
+361563236.index
+2460376339.index

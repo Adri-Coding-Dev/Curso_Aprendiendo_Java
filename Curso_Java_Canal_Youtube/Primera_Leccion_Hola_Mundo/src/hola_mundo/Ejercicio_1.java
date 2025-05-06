@@ -1,0 +1,5 @@
+package hola_mundo;
+
+public class Ejercicio_1 {
+	//Esta es la Base que requeriremos para realizar el Ejercicio.
+}
